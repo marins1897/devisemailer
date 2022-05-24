@@ -5,6 +5,6 @@ t.string :name
 t.string :email
 t.text :message
 t.timestamps
-end
-end
+    end
+  end
 end
